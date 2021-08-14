@@ -14,18 +14,18 @@
 - :camera_flash: Fun fact about me: I love taking artistic photographs of nature and wildlife, something I've started doing as a hobby since early childhood.
 
 ### Connect with me :man_technologist::
-<div style="text-align:center">
+[<div style="text-align:center">]
 [<img align="center" alt="sanjulamadurapperuma | Medium" width="22px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][blog]
 [<img align="center" alt="sanjula-madurapperuma | LinkedIn" width="22px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="center" alt="The CS Lab | YouTube" width="22px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="center" alt="s_arachchige | Twitter" width="22px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-</div>
+[</div>]
 
 <br />
 
-<div style="text-align:center">
+<!-- [<div style="text-align:center"> -->
 [<img align="center" alt="sanjula | Buy Me A Coffee" width="174px" target="_blank" src="https://cdn.buymeacoffee.com/buttons/default-orange.png"/>][buymeacoffee]
-</div>
+<!-- </div> -->
 
 <br />
 
