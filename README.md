@@ -1,7 +1,7 @@
 ## Hi, I'm Sanjula 👋
 
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com) -->
-[![Twitter Follow](https://img.shields.io/twitter/follow/sanjulamadurapperuma?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsanjulamadurapperuma&screen_name=s_arachchige)
+<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/sanjulamadurapperuma?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsanjulamadurapperuma&screen_name=s_arachchige) -->
 
 
 ### About Me :superhero_man:	
@@ -49,10 +49,19 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://docs.github.com/en)
 <!-- [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist] -->
 
+---
 <br />
 <br />
 
-# Blog Posts
+### :movie_camera: Latest Youtube Videos
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+---
+<br />
+
+
+### :memo::pencil: Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Mitigating OWASP Top 10 API Security Threats with an API Gateway — Part 3](https://medium.com/api-integration-essentials/mitigating-owasp-top-10-api-security-threats-with-an-api-gateway-part-3-51b65c4ff27f?source=rss-24ab1eb53a65------2)
 - [Mitigating OWASP Top 10 API Security Threats with an API Gateway — Part 4](https://medium.com/api-integration-essentials/mitigating-owasp-top-10-api-security-threats-with-an-api-gateway-part-4-48bd60b9459f?source=rss-24ab1eb53a65------2)
