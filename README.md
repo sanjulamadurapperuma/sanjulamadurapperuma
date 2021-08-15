@@ -54,6 +54,11 @@
 
 # Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Mitigating OWASP Top 10 API Security Threats with an API Gateway — Part 3](https://medium.com/api-integration-essentials/mitigating-owasp-top-10-api-security-threats-with-an-api-gateway-part-3-51b65c4ff27f?source=rss-24ab1eb53a65------2)
+- [Mitigating OWASP Top 10 API Security Threats with an API Gateway — Part 4](https://medium.com/api-integration-essentials/mitigating-owasp-top-10-api-security-threats-with-an-api-gateway-part-4-48bd60b9459f?source=rss-24ab1eb53a65------2)
+- [Mitigating OWASP Top 10 API Security Threats with an API Gateway — Part 2](https://medium.com/api-integration-essentials/mitigating-owasp-top-10-api-security-threats-with-an-api-gateway-part-2-f69fec01868e?source=rss-24ab1eb53a65------2)
+- [Performing Security Audits on API Definitions](https://medium.com/api-integration-essentials/performing-security-audits-on-api-definitions-ac1ef295185c?source=rss-24ab1eb53a65------2)
+- [Getting started with AWS EC2](https://medium.com/sanjulas-dev-notes/getting-started-with-aws-ec2-860559ef456f?source=rss-24ab1eb53a65------2)
 <!-- BLOG-POST-LIST:END -->
 
 [twitter]: https://twitter.com/s_arachchige
