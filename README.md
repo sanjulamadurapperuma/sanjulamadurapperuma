@@ -6,20 +6,21 @@
 
 ### About Me :superhero_man:	
 
-- :bulb: I like solving problems with a creative twist.
-- :telescope: Research: I was a part of a research group during my undergraduate studies for some time before I worked on Automating Graph Representation Learning as my own undergraduate research project. The work was published in the 27th IEEE ICE/ITMC Conference held in Cardiff, UK.
-- :people_holding_hands: I got introduced to open-source more than 6 years ago, and I have never looked back .
-- :golf: Goals: To use my skills and people power to make this :earth_asia: a better place for everyone.
-- :octocat:	Ask me about: anything... no, seriously :wink:. Programmers are humans too.
-- :camera_flash: Fun fact about me: I love taking artistic photographs of nature and wildlife, something I've started doing as a hobby since early childhood.
+- :bulb: _**What am I like:**_ I like solving problems with a creative twist.
+- :telescope: _**Research:**_ I was a part of a research group during my undergraduate studies for some time before I worked on Automating Graph Representation Learning as my own undergraduate research project. The work was published in the 27th IEEE ICE/ITMC Conference held in Cardiff, UK.
+- :people_holding_hands: _**Passion:**_ I got introduced to open-source more than 6 years ago, and I have never looked back .
+- :golf: _**Goals:**_ To use my skills and people power to make this :earth_asia: a better place for everyone.
+- :octocat:	_**Ask me about:**_ Anything... no, seriously :wink:. Programmers are humans too.
+- :camera_flash: _**Fun fact about me:**_ I love taking artistic photographs of nature and wildlife, something I've started doing as a hobby since early childhood.
 
 ### Connect with me :man_technologist::
-[<div style="text-align:center">]
 [<img align="center" alt="sanjulamadurapperuma | Medium" width="22px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][blog]
 [<img align="center" alt="sanjula-madurapperuma | LinkedIn" width="22px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="center" alt="The CS Lab | YouTube" width="22px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="center" alt="s_arachchige | Twitter" width="22px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[</div>]
+
+<!-- <div style="align:center">
+</div> -->
 
 <br />
 
