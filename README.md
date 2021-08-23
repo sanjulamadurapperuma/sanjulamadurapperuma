@@ -59,6 +59,8 @@
 
 ### :movie_camera: Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Introduction into Concurrency and Modelling](https://www.youtube.com/watch?v=LSDyHqQXpFQ)
+- [QuickFind Algorithm Java Implementation](https://www.youtube.com/watch?v=KGbOK5Jes6s)
 <!-- YOUTUBE:END -->
 
 <br />
