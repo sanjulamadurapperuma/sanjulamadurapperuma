@@ -50,19 +50,18 @@
 <!-- [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist] -->
 
 <br />
----
+
+### :memo: Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<br />
 
 ### :movie_camera: Latest Youtube Videos
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
----
 <br />
-
-
-### :memo::pencil: Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 [twitter]: https://twitter.com/s_arachchige
 [youtube]: https://www.youtube.com/channel/UC2emqq1KtzjMx6niZOgKoaA
