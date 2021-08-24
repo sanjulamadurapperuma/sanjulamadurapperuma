@@ -7,7 +7,7 @@
 ### About Me :superhero_man:	
 
 <div align="middle">
-      <img align="middle" alt="" src="/assets/sara_geci_artwork.gif">
+      <img align="middle" width="80%" height="80%" alt="About Me GIF" src="/assets/sara_geci_artwork.gif">
 </div>
 
 ###### <p align="center">Full credit goes to Sara Geci for this amazing illustration. Contact her for freelance work - sarageci2 AT gmail DOT COM</p>
@@ -47,15 +47,21 @@
 [<img align="left" alt="React" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />](https://reactjs.org/)
 [<img align="left" alt="GraphQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />](https://graphql.org/)
 [<img align="left" alt="Node.js" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />](https://nodejs.org/en/)
-<!-- [<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][webdevplaylist] -->
-<!-- [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />](https://dev.mysql.com/doc/) -->
 [<img align="left" alt="MySQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />](https://dev.mysql.com/doc/)
 [<img align="left" alt="MongoDB" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />](https://docs.mongodb.com/)
 [<img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://git-scm.com/doc)
 [<img align="left" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://docs.github.com/en)
-<!-- [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist] -->
+[<img align="left" alt="Python" width="50px" height="50px" src="/assets/python.jpeg" />](https://www.python.org/)
+[<img align="left" alt="Angular" width="50px" height="50px" src="/assets/angular.svg" />](https://angular.io/)
+[<img align="left" alt="Java" width="50px" height="50px" src="/assets/java.png" />](https://www.oracle.com/java/technologies/)
+[<img align="left" alt="Docker" width="50px" height="50px" src="/assets/docker.png" />](https://www.docker.com/)
+[<img align="left" alt="Kubernetes" width="50px" height="50px" src="/assets/kubernetes.png" />](https://kubernetes.io/)
+[<img align="left" alt="AWS" width="50px" height="50px" src="/assets/aws.png" />](https://aws.amazon.com/)
 
 <br />
+
+<br />
+
 <br />
 
 ### :memo: Blog Posts
