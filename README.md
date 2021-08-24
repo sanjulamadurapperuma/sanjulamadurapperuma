@@ -14,7 +14,7 @@
 
 - :bulb: _**What am I like:**_ I like solving problems with a creative twist.
 - :telescope: _**Research:**_ I was a part of a research group during my undergraduate studies for some time before I worked on Automating Graph Representation Learning as my own undergraduate research project. The work was published in the 27th IEEE ICE/ITMC Conference held in Cardiff, UK.
-- :people_holding_hands: _**Passion:**_ I got introduced to open-source more than 6 years ago, and I have never looked back .
+- :people_holding_hands: _**Passion:**_ I got introduced to open-source more than 6 years ago, and I have never looked back.
 - :golf: _**Goals:**_ To use my skills and people power to make this :earth_asia: a better place for everyone.
 - :octocat:	_**Ask me about:**_ Anything... no, seriously :wink:. Programmers are humans too.
 - :camera_flash: _**Fun fact about me:**_ I love taking artistic photographs of nature and wildlife, something I've started doing as a hobby since early childhood.
@@ -54,9 +54,9 @@
 [<img align="left" alt="Python" width="50px" height="50px" src="/assets/python.jpeg" />](https://www.python.org/)
 [<img align="left" alt="Angular" width="50px" height="50px" src="/assets/angular.svg" />](https://angular.io/)
 [<img align="left" alt="Java" width="50px" height="50px" src="/assets/java.png" />](https://www.oracle.com/java/technologies/)
-[<img align="left" alt="Docker" width="50px" height="50px" src="/assets/docker.png" />](https://www.docker.com/)
-[<img align="left" alt="Kubernetes" width="50px" height="50px" src="/assets/kubernetes.png" />](https://kubernetes.io/)
-[<img align="left" alt="AWS" width="50px" height="50px" src="/assets/aws.png" />](https://aws.amazon.com/)
+[<img align="left" alt="Docker" width="50px" height="50px" src="/assets/docker.svg" />](https://www.docker.com/)
+[<img align="left" alt="Kubernetes" width="50px" height="50px" src="/assets/kubernetes.svg" />](https://kubernetes.io/)
+[<img align="left" alt="AWS" width="50px" height="50px" src="/assets/aws.svg" />](https://aws.amazon.com/)
 
 <br />
 
