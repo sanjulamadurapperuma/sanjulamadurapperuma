@@ -40,8 +40,6 @@
       </a>
 </div>
 
-<br />
-
 ### :toolbox: Some Languages And Tools I Have Used
 
 <div align="middle"> 
