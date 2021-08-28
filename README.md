@@ -1,6 +1,6 @@
 ## Hi, I'm Sanjula 👋
 
-### About Me :superhero_man:	
+### :superhero_man: About Me 	
 
 <div align="middle">
       <img align="middle" width="80%" height="80%" alt="About Me GIF" src="/assets/sara_geci_artwork.gif">
@@ -15,7 +15,7 @@
 - :octocat:	_**Ask me about:**_ Anything... no, seriously :wink:. Programmers are humans too.
 - :camera_flash: _**Fun fact about me:**_ I love taking artistic photographs of nature and wildlife, something I've started doing as a hobby since early childhood.
 
-### Connect with me :man_technologist::
+### :man_technologist: Connect With Me
 
 <div align="middle">
       <a href="https://medium.com/@sanjulamadurapperuma" target="blank">
@@ -40,9 +40,7 @@
       </a>
 </div>
 
-<br />
-
-### :toolbox: Some Languages and Tools I have used:
+### :toolbox: Some Languages And Tools I Have Used
 
 <div align="middle"> 
       <table style="width:100%; border: 0px;">
@@ -145,8 +143,6 @@
       </table>
 </div>
 
-<br />
-
 ### :memo: Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Mitigating OWASP Top 10 API Security Threats with an API Gateway — Part 3](https://medium.com/api-integration-essentials/mitigating-owasp-top-10-api-security-threats-with-an-api-gateway-part-3-51b65c4ff27f?source=rss-24ab1eb53a65------2)
@@ -155,8 +151,6 @@
 - [Performing Security Audits on API Definitions](https://medium.com/api-integration-essentials/performing-security-audits-on-api-definitions-ac1ef295185c?source=rss-24ab1eb53a65------2)
 - [Getting started with AWS EC2](https://medium.com/sanjulas-dev-notes/getting-started-with-aws-ec2-860559ef456f?source=rss-24ab1eb53a65------2)
 <!-- BLOG-POST-LIST:END -->
-
-<br />
 
 ### :movie_camera: Latest Youtube Videos
 <!-- YOUTUBE:START -->
