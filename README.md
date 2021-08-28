@@ -1,9 +1,5 @@
 ## Hi, I'm Sanjula 👋
 
-<!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com) -->
-<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/sanjulamadurapperuma?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsanjulamadurapperuma&screen_name=s_arachchige) -->
-
-
 ### About Me :superhero_man:	
 
 <div align="middle">
@@ -20,19 +16,134 @@
 - :camera_flash: _**Fun fact about me:**_ I love taking artistic photographs of nature and wildlife, something I've started doing as a hobby since early childhood.
 
 ### Connect with me :man_technologist::
-[<img align="middle" alt="sanjulamadurapperuma | Medium" width="22px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][blog]
-[<img align="middle" alt="sanjula-madurapperuma | LinkedIn" width="22px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="middle" alt="The CS Lab | YouTube" width="22px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="middle" alt="s_arachchige | Twitter" width="22px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
-<!-- <div style="align:center">
-</div> -->
+<div align="middle">
+      <a href="https://medium.com/@sanjulamadurapperuma" target="blank">
+             <img align="middle" alt="sanjulamadurapperuma | Medium" height="50px" width="50px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />&nbsp;
+      </a>
+      <a href="https://linkedin.com/in/sanjula-madurapperuma" target="blank">
+            <img align="middle" alt="sanjula-madurapperuma | LinkedIn" height="50px" width="50px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />&nbsp;
+      </a>
+      <a href="https://www.youtube.com/channel/UC2emqq1KtzjMx6niZOgKoaA" target="blank">
+            <img align="middle" alt="The CS Lab | YouTube" height="50px" width="50px" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" />&nbsp;
+      </a>
+      <a href="https://twitter.com/s_arachchige" target="blank">
+            <img align="middle" alt="s_arachchige | Twitter" height="50px" width="50px" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" />&nbsp;
+      </a>
+</div>
 
 <br />
 
-<!-- [<div style="text-align:center"> -->
-[<img align="center" alt="sanjula | Buy Me A Coffee" width="174px" target="_blank" src="https://cdn.buymeacoffee.com/buttons/default-orange.png"/>][buymeacoffee]
-<!-- </div> -->
+<div align="middle">
+      <a href="https://www.buymeacoffee.com/sanjula" target="blank">
+            <img align="middle" alt="sanjula | Buy Me A Coffee" width="174px" src="https://cdn.buymeacoffee.com/buttons/default-orange.png" />&nbsp;
+      </a>
+</div>
+
+<br />
+
+### :toolbox: Some Languages and Tools I have used:
+
+<div align="middle"> 
+      <table style="width:100%; border: 0px;">
+            <tr>
+                  <td>
+                        <a href="https://pytorch-geometric.readthedocs.io/en/latest/">
+                              <img align="middle" alt="Pytorch Geometric" width="50px" height="50px" src="/assets/pytorch-geometric.svg" />
+                        </a>
+                  </td>
+                  <td>
+                        <a href="https://ballerina.io/">
+                              <img align="middle" alt="Ballerina" width="50px" height="50px" src="/assets/ballerina.jpg" />
+                        </a>
+                  </td>
+                  <td>
+                        <a href="https://github.com/microsoft/vscode">
+                              <img align="middle" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+                        </a>
+                  </td>
+                  <td>
+                        <a href="https://dev.w3.org/html5/html-author/">
+                              <img align="middle" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+                        </a>
+                  </td>
+                  <td>
+                        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+                              <img align="middle" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+                        </a>
+                  </td>
+                  <td>
+                        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+                              <img align="middle" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+                        </a>
+                  </td>
+            </tr>
+            <tr>
+                  <td>
+                        <a href="https://graphql.org/">
+                              <img align="middle" alt="GraphQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
+                        </a>
+                  </td>
+                  <td>
+                        <a href="https://nodejs.org/en/">
+                              <img align="middle" alt="Node.js" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+                        </a>
+                  </td>
+                  <td>
+                        <a href="https://dev.mysql.com/doc/">
+                              <img align="middle" alt="MySQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+                        </a>
+                  </td>
+                  <td>
+                        <a href="https://docs.mongodb.com/">
+                              <img align="middle" alt="MongoDB" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+                        </a>
+                  </td>
+                  <td>
+                        <a href="https://kubernetes.io/">
+                              <img align="middle" alt="Kubernetes" width="50px" height="50px" src="/assets/kubernetes.svg" />
+                        </a>
+                  </td>
+                  <td>
+                        <a href="https://aws.amazon.com/">
+                              <img align="middle" alt="AWS" width="50px" height="50px" src="/assets/aws.svg" />
+                        </a>
+                  </td>
+            </tr>
+            <tr>
+                  <td>
+                        <a href="https://git-scm.com/doc">
+                              <img align="middle" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+                        </a>
+                  </td>
+                  <td>
+                        <a href="https://reactjs.org/">
+                              <img align="middle" alt="React" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+                        </a>
+                  </td>
+                  <td>
+                        <a href="https://www.python.org/">
+                              <img align="middle" alt="Python" width="50px" height="50px" src="/assets/python.jpeg" />
+                        </a>
+                  </td>
+                  <td>
+                        <a href="https://angular.io/">
+                              <img align="middle" alt="Angular" width="50px" height="50px" src="/assets/angular.svg" />
+                        </a>
+                  </td>
+                  <td>
+                        <a href="https://www.oracle.com/java/technologies/">
+                              <img align="middle" alt="Java" width="50px" height="50px" src="/assets/java.png" />
+                        </a>
+                  </td>
+                  <td>
+                        <a href="https://www.docker.com/">
+                              <img align="middle" alt="Docker" width="50px" height="50px" src="/assets/docker.svg" />
+                        </a>
+                  </td>
+            </tr>
+      </table>
+</div>
 
 <br />
 
@@ -52,33 +163,6 @@
 - [Introduction into Concurrency and Modelling](https://www.youtube.com/watch?v=LSDyHqQXpFQ)
 - [QuickFind Algorithm Java Implementation](https://www.youtube.com/watch?v=KGbOK5Jes6s)
 <!-- YOUTUBE:END -->
-
-<br />
-
-### :toolbox: Languages and Tools I have used:
-
-[<img align="left" alt="Pytorch Geometric" width="50px" height="50px" src="/assets/pytorch-geometric.svg" />](https://pytorch-geometric.readthedocs.io/en/latest/)
-[<img align="left" alt="Ballerina" width="50px" height="50px" src="/assets/ballerina.jpg" />](https://ballerina.io/)
-[<img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://github.com/microsoft/vscode)
-[<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://dev.w3.org/html5/html-author/)
-[<img align="left" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<img align="left" alt="React" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />](https://reactjs.org/)
-[<img align="left" alt="GraphQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />](https://graphql.org/)
-[<img align="left" alt="Node.js" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />](https://nodejs.org/en/)
-[<img align="left" alt="MySQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />](https://dev.mysql.com/doc/)
-[<img align="left" alt="MongoDB" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />](https://docs.mongodb.com/)  
-
-<br />
-
-[<img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://git-scm.com/doc)
-[<img align="left" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://docs.github.com/en)
-[<img align="left" alt="Python" width="50px" height="50px" src="/assets/python.jpeg" />](https://www.python.org/)
-[<img align="left" alt="Angular" width="50px" height="50px" src="/assets/angular.svg" />](https://angular.io/)
-[<img align="left" alt="Java" width="50px" height="50px" src="/assets/java.png" />](https://www.oracle.com/java/technologies/)
-[<img align="left" alt="Docker" width="50px" height="50px" src="/assets/docker.svg" />](https://www.docker.com/)
-[<img align="left" alt="Kubernetes" width="50px" height="50px" src="/assets/kubernetes.svg" />](https://kubernetes.io/)
-[<img align="left" alt="AWS" width="50px" height="50px" src="/assets/aws.svg" />](https://aws.amazon.com/)   
 
 <br />
 
