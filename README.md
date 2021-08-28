@@ -161,9 +161,3 @@
 <!-- YOUTUBE:END -->
 
 <br />
-
-[twitter]: https://twitter.com/s_arachchige
-[youtube]: https://www.youtube.com/channel/UC2emqq1KtzjMx6niZOgKoaA
-[linkedin]: https://linkedin.com/in/sanjula-madurapperuma
-[buymeacoffee]: https://www.buymeacoffee.com/sanjula
-[blog]: https://medium.com/@sanjulamadurapperuma
