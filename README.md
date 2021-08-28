@@ -152,6 +152,8 @@
 - [Getting started with AWS EC2](https://medium.com/sanjulas-dev-notes/getting-started-with-aws-ec2-860559ef456f?source=rss-24ab1eb53a65------2)
 <!-- BLOG-POST-LIST:END -->
 
+<p>Read more blog posts <a href="https://medium.com/@sanjulamadurapperuma">here</a>.</p>
+
 ### :movie_camera: Latest Youtube Videos
 <!-- YOUTUBE:START -->
 - [Introduction into Concurrency and Modelling](https://www.youtube.com/watch?v=LSDyHqQXpFQ)
