@@ -143,11 +143,11 @@
       </table>
 </div>
 
-### Webinars
+### :tv: Webinars
 - [42Crunch API Security Audit for WSO2 API Manager](https://wso2.com/library/webinars/42crunch-security-audit-for-wso2-api-manager-3.1/)  
 
 
-### Screencast
+### :clapper: Screencast
 - [AWS Lambda Integration in WSO2 API Manager](https://www.youtube.com/watch?v=myU_A-ZRmgY)
 
 ### :memo: Blog Posts
