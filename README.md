@@ -143,6 +143,13 @@
       </table>
 </div>
 
+### Webinars
+- [42Crunch API Security Audit for WSO2 API Manager](https://wso2.com/library/webinars/42crunch-security-audit-for-wso2-api-manager-3.1/)  
+
+
+### Screencast
+- [AWS Lambda Integration in WSO2 API Manager](https://www.youtube.com/watch?v=myU_A-ZRmgY)
+
 ### :memo: Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Mitigating OWASP Top 10 API Security Threats with an API Gateway — Part 3](https://medium.com/api-integration-essentials/mitigating-owasp-top-10-api-security-threats-with-an-api-gateway-part-3-51b65c4ff27f?source=rss-24ab1eb53a65------2)
