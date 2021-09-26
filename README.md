@@ -15,6 +15,8 @@
 - :octocat:	_**Ask me about:**_ Anything... no, seriously :wink:. Programmers are humans too.
 - :camera_flash: _**Fun fact about me:**_ I love taking artistic photographs of nature and wildlife, something I've started doing as a hobby since early childhood.
 
+<hr />
+
 ### :man_technologist: Connect With Me
 
 <div align="middle">
@@ -30,6 +32,9 @@
       <a href="https://twitter.com/s_arachchige" target="blank">
             <img align="middle" alt="s_arachchige | Twitter" height="50px" width="50px" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" />&nbsp;
       </a>
+      <a href="https://stackoverflow.com/users/8707187/s-madurapperuma" target="blank">
+            <img align="middle" alt="S.Madurapperuma | StackOverflow" height="50px" width="50px" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" />&nbsp;
+      </a>
 </div>
 
 <br />
@@ -39,6 +44,8 @@
             <img align="middle" alt="sanjula | Buy Me A Coffee" width="174px" src="https://cdn.buymeacoffee.com/buttons/default-orange.png" />&nbsp;
       </a>
 </div>
+
+<hr />
 
 ### :toolbox: Some Languages And Tools I Have Used
 
@@ -143,12 +150,22 @@
       </table>
 </div>
 
+<hr />
+
 ### :tv: Webinars
 - [42Crunch API Security Audit for WSO2 API Manager](https://wso2.com/library/webinars/42crunch-security-audit-for-wso2-api-manager-3.1/)  
 
+<hr />
 
 ### :clapper: Screencast
 - [AWS Lambda Integration in WSO2 API Manager](https://www.youtube.com/watch?v=myU_A-ZRmgY)
+
+<hr />
+
+### :medal_sports: Certifications
+- [WSO2 Certified Identity Server Developer - V5](https://certification.wso2.com/web/certificate/S21PG4)
+
+<hr />
 
 ### :memo: Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -161,10 +178,18 @@
 
 <p>Read more blog posts <a href="https://medium.com/@sanjulamadurapperuma">here</a>.</p>
 
+<hr />
+
 ### :movie_camera: Latest Youtube Videos
 <!-- YOUTUBE:START -->
 - [Introduction into Concurrency and Modelling](https://www.youtube.com/watch?v=LSDyHqQXpFQ)
 - [QuickFind Algorithm Java Implementation](https://www.youtube.com/watch?v=KGbOK5Jes6s)
 <!-- YOUTUBE:END -->
 
+<hr />
+
+<div align="middle"> 
+    <img alt="Sanjula Madurapperuma's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sanjulamadurapperuma&show_icons=true&hide_border=true" />
+</div>
 <br />
+
