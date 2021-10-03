@@ -190,6 +190,7 @@
 
 <div align="middle"> 
     <img alt="Sanjula Madurapperuma's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sanjulamadurapperuma&show_icons=true&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjulamadurapperuma&theme=default" alt="Sanjula Madurapperuma Streak Stats" />
 </div>
 <br />
 
