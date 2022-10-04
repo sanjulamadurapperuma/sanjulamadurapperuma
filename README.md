@@ -10,7 +10,7 @@
 
 - :bulb: _**What am I like:**_ I like solving problems with a creative twist.
 - :telescope: _**Research:**_ I was a part of a research group during my undergraduate studies for some time before I worked on Automating Graph Representation Learning as my own undergraduate research project. The work was published in the 27th IEEE ICE/ITMC Conference held in Cardiff, UK.
-- :people_holding_hands: _**Passion:**_ I got introduced to open-source more than 6 years ago, and I have never looked back.
+- :people_holding_hands: _**Passion:**_ I got introduced to open-source more than 7 years ago, and I have never looked back.
 - :golf: _**Goals:**_ To use my skills and people power to make this :earth_asia: a better place for everyone.
 - :octocat:	_**Ask me about:**_ Anything... no, seriously :wink:. Programmers are humans too.
 - :camera_flash: _**Fun fact about me:**_ I love taking artistic photographs of nature and wildlife, something I've started doing as a hobby since early childhood.
